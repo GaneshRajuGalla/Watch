@@ -9,7 +9,9 @@ NumberScroller
 
 
 
-https://github.com/GaneshRajuGalla/WatchOS/assets/61533653/9cf1b755-4641-41e0-9fb2-8d86fb2b5ac0
+https://github.com/GaneshRajuGalla/WatchOS/assets/61533653/8ab89ed3-137c-4c61-9601-96018dbde16c
+
+
 
 
 
